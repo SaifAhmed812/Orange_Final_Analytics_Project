@@ -54,7 +54,7 @@ Analytics_Project/
         <img src="Screenshots/pic_customer.PNG" alt="Customer Dashboard" width="300"/>
       </td>
       <td>
-        <img src="Screenshots/pic_campaigns.PNG" alt="Campaign Dashboard" width="500"/>
+         <img src="Screenshots/pic_customer.PNG" alt="Customer Dashboard" width="300"/>
       </td>
     </tr>
   </table>
