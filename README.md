@@ -2,19 +2,6 @@
 
 An end-to-end **Power BI analytics solution** that combines sales, customer, and marketing insights with **machine learning** to support data-driven business decisions. The dashboard delivers interactive reporting, KPI monitoring, and predictive customer analytics within a single business intelligence platform.
 
----
-
-## 🚀 Project Highlights
-
-- 📈 Interactive Power BI dashboard with three analytical domains
-- 🤖 Embedded machine learning model for customer purchase prediction
-- 🌍 Global sales and customer analysis
-- 🎯 Marketing campaign performance tracking
-- 📊 Executive KPI monitoring and trend analysis
-- ⚡ Built using a relational data model for scalable reporting
-
----
-
 ## 📁 Repository Structure
 
 ```text
