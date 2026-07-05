@@ -150,7 +150,7 @@ Analyzes customer demographics, engagement, and purchasing behavior.
 
 ---
 
-# Campaign Overview
+#📈 Campaign Overview
 
 Monitors campaign performance, advertising spend, and marketing effectiveness.
 
