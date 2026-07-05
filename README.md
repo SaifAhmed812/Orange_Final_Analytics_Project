@@ -198,19 +198,10 @@ Monitors campaign performance, advertising spend, and marketing effectiveness.
 - Data Modeling
 - Data Visualization
 
-
-# 📌 Business Value
-
-This project demonstrates how traditional Business Intelligence can be enhanced with Machine Learning to provide predictive insights. By combining operational KPIs, customer analytics, marketing performance, and AI-driven forecasting, organizations can make smarter, data-driven decisions while improving customer retention and marketing effectiveness.
-
 ---
 
 ## 👨‍💻 Author
 
 **Saif Eldin Ahmed**
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-- Email: your@email.com
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
+- LinkedIn: https://linkedin.com/in/saif-ahmed-72173a212
