@@ -54,7 +54,7 @@ Analytics_Project/
         <img src="Screenshots/pic_customer.PNG" alt="Customer Dashboard" width="300"/>
       </td>
       <td>
-        <img src="Screenshots/pic_campaigns.PNG" alt="Campaign Dashboard" width="300"/>
+        <img src="Screenshots/pic_campaigns.PNG" alt="Campaign Dashboard" width="500"/>
       </td>
     </tr>
   </table>
@@ -207,7 +207,7 @@ This project demonstrates how traditional Business Intelligence can be enhanced 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Saif Eldin Ahmed**
 
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Portfolio: https://yourportfolio.com
