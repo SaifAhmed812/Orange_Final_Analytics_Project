@@ -1,4 +1,4 @@
-# 📊 Retail & Marketing Analytics Hub with AI-Powered Customer Prediction
+# 📊 Final Capstone Project – Orange Digital Center Internship
 
 An end-to-end **Power BI analytics solution** that combines sales, customer, and marketing insights with **machine learning** to support data-driven business decisions. The dashboard delivers interactive reporting, KPI monitoring, and predictive customer analytics within a single business intelligence platform.
 
